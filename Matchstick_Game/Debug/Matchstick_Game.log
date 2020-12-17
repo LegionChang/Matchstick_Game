@@ -1,0 +1,32 @@
+﻿生成启动时间为 2020/12/16 19:47:59。
+     1>项目“F:\VS_Proj\Matchstick_Game\Matchstick_Game\Matchstick_Game.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Matchstick_Game.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Matchstick_Game.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Matchstick_GameDlg.cpp
+         Matchstick_GameDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS_Proj\Matchstick_Game\Debug\Matchstick_Game.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Matchstick_Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\VS_Proj\Matchstick_Game\Debug\Matchstick_Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS_Proj\Matchstick_Game\Debug\Matchstick_Game.lib" /MACHINE:X86 Debug\Matchstick_Game.res
+         Debug\Matchstick_Game.exe.embed.manifest.res
+         Debug\Matchstick_Game.obj
+         Debug\Matchstick_GameDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Matchstick_Game.exe.embed.manifest" /manifest Debug\Matchstick_Game.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Matchstick_Game.vcxproj -> F:\VS_Proj\Matchstick_Game\Debug\Matchstick_Game.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Matchstick_Game.unsuccessfulbuild”。
+         正在对“Debug\Matchstick_Game.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\VS_Proj\Matchstick_Game\Matchstick_Game\Matchstick_Game.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36
